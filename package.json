@@ -1,12 +1,12 @@
 {
-  "name": "nodexpert",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "nodexpert",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "keywords": [],
+    "author": "Younes Ghorbany",
+    "license": "ISC"
 }
